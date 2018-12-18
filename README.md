@@ -2,7 +2,7 @@
 
 ## List of the parts of the writing text
 
-The test are composed of two parts. One part where the test taker shows their ability to review and provide feedback on text and one part where the test taker writes a short technical article based on material sent to them.
+The test is composed of two parts. One part where the test taker shows their ability to review and provide feedback on technical text and one part where the test taker writes a short technical article based on material sent to them.
 
 ### 1. - Reviewing existing documentation and providing feedback
 The test taker will be asked to look at the help files in *ietoolkit*. The exercise will then be to find some part of the documentation that can be improved and express why there is room for improvement.
@@ -34,7 +34,7 @@ The test:
         * Notepad on Windows, TextEdit on Mac or search _markdown compiler_ on the internet (link to one example below)
 
 
-## Evaluation Guidelines and other resources intended to provide an as fail
+## Evaluation Guidelines and other resources intended to ensure a fair evaluation and make sure that no test taker fail or waste time on an irrelevant technical aspect
 * [Evaluations Guidelines](https://github.com/kbjarkefur/writing-test/blob/master/evaluations-guidelines.md)
 * Markdown resources
     * [Markdown Tutorial](https://www.markdowntutorial.com/)
