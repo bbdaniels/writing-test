@@ -15,6 +15,6 @@ There are three rules that must be satisfied for a randomization in Stata to be 
 
 ## How to implement in Stata
 
-This section explains how the three rules are implemented in Stata.
+This section explains how the three rules are implemented in Stata. In this example we show a simple treatment assignment where half of the observations are assigned into the treatment group and the other half is assigned to control group.
 
 (complete this section - code examples are encourages, and can be copied from the presentation. Make sure to modify the code or your text so that the two match.)
