@@ -7,7 +7,7 @@ This is very important from the perspective of research transparency to show tha
 
 Therefore, whenever we randomize anything in a research project, for example, random sampling or random treatment assignment, it is very important that anyone else, can run the randomization again and get the same results so that it can be verified that the randomization was not rigged or in any other way manipulated. It is not difficult to do so in Stata, but it requires that some specific steps are followed.
 
-## How do make a randomization replicable in Stata?
+## How do make a randomization replicable in Stata
 
 There are three rules that must be satisfied for a randomization in Stata to be fully replicable. This section list those three rules and explain why they are necessary.
 
