@@ -9,12 +9,12 @@ Therefore, whenever we randomize anything in a research project, for example, ra
 
 ## How do make a randomization replicable in Stata?
 
-There are three rules that must be satisfied for a randomization in Stata to be fully replicable. This section list those rules and explain why they are important.
+There are three rules that must be satisfied for a randomization in Stata to be fully replicable. This section list those three rules and explain why they are necessary.
 
 (complete this section)
 
 ## How to implement in Stata
 
-This section explains how
+This section explains how the three rules are implemented in Stata.
 
 (complete this section - code examples are encourages, and can be copied from the presentation. Make sure to modify the code or your text so that the two match.)
